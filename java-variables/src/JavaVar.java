@@ -17,10 +17,10 @@ public class JavaVar {
         System.out.println("Cost of a single battle pass = " + battlePass);
 
         //With our current Allowance, how many battle passes will we be able to buy?
-
+        //Comment what you did, and why/how
 
         //What is the total cost of battle passes
-        
-
+        //Comment what you did, and why/how
+        //Add your code to github by comitting and pushing!
     }
 }
