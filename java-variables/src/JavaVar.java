@@ -22,5 +22,6 @@ public class JavaVar {
         //What is the total cost of battle passes
         //Comment what you did, and why/how
         //Add your code to github by committing and pushing!
+        //Making a change to this file now!
     }
 }
